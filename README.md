@@ -1,4 +1,4 @@
-# IRCTC Booking System (WorkIndia Assignment)
+# IRCTC Booking System (WorkIndia Assessment)
 
 I have completed this interesting assessment given by Workindia. I have tried to implemet all the requirements mentioned in the assessment.
 
